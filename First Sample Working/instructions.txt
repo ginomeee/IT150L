@@ -1,0 +1,4 @@
+mount c c:\
+set path=c:\dev\tasm\bin\
+tasm hello
+tlink hello
