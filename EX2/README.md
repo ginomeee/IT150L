@@ -1,4 +1,4 @@
-# EX2 - Name with colors
+# EX2 - Loops
 ***
 The objective is to use loops in assembly language to output the following text in the middle of the screen:<br/>
 ```
